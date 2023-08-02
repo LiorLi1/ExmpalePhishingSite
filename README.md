@@ -6,7 +6,7 @@
 
 
 ## DISCLAIMER
-This code is for educational purposes only. Do not use for ill intent. I am not respnosible for any abuse or damage caused by this program.
+This code is for educational purposes only. Do not use for ill intent. I am not responsible for any abuse or damage caused by this program.
 
 
 ## Usage
