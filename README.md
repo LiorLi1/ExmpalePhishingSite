@@ -1,4 +1,4 @@
-# ExmpalePhishingSite
+# PHP Phishing Script
  A demonstrative Phishing PHP script that gets username and password from any site that is built on vBulletin 4.X
  and both saves the details on a file (list.txt) and sends them to the site creator by Email.
 
