@@ -2,7 +2,7 @@
  A demonstrative Phishing PHP script that gets username and password from any site that is built on vBulletin 4.X
  and both saves the details on a file (list.txt) and sends them to the site creator by Email.
 
- Additionaly, the script is also capable of sending a fake email with a phishing site link disguised as a legit email message to the phished user if ther loged in using their Email address.
+ Additionaly, the script is also capable of sending a fake email with a phishing site link disguised as a legit Email message to the phished user if they logged in using their Email address.
 
 
 ## DISCLAIMER
